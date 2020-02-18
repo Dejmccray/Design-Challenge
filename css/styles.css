@@ -1,0 +1,61 @@
+/* .main_img1 {
+    background-image: url("../img/ui-vs-ux.jpg");
+}
+
+.main_img2 {
+    background-image: url("../img/ux-ui.png");
+}
+
+.main_img3 {
+    background-image: url("../img/3c7d938af5ab0d5e6ac67be9536e3c47.jpeg");
+}
+
+.carousel-inner .item {
+    height: 600px;
+    background-size: cover;
+} */
+
+.jumbotron {
+    background: url("../img/ui-vs-ux.jpg") center center no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+.question {
+    text-align: center;
+}
+
+.img1 {
+    height: 300px;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+.left {
+    margin-left: 100px;
+}
+
+.ux-vs-ui {
+    /* height: 500px; */
+    height: 70vh;
+    width: auto;
+    margin-left: 200px;
+}
+
+.Importance {
+    text-align: center;
+}
+
+.margin {
+    margin-bottom: 10%;
+}
+.Consultation {
+    text-align: center;
+    color: #164561;
+    font-size: 25px;
+}
+
+.btn-lg {
+   margin-left: 50%;
+}
